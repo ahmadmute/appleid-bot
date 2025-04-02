@@ -3,8 +3,8 @@
 ├── index.php
 ├── time.php
 ├── pay/
-│   ├── index.php (درگاه زرین پال)
-│   └── idpay.php (درگاه آیدی پی)
+│ ├── index.php # درگاه زرین‌پال (ZarinPal)
+│ └── idpay.php # درگاه IDPay
 ├── install.sh
 ├── requirements.txt
 └── README.md
